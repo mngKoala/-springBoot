@@ -60,7 +60,7 @@
   <!--把对象的创建交给spring来管理-->
   <bean id = "accountServiceImpl" class = "com.company.service.
         impl.AccountServiceImpl"></bean>
-  <bean id = "accountDaoImpl" class = "com.smallbeef.dao.impl.
+  <bean id = "accountDaoImpl" class = "com.company.dao.impl.
         AccountDaoImpl"></bean>
 </beans>
 ```
